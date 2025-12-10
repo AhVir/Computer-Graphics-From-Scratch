@@ -8,4 +8,4 @@ Some good resources:
 - [Vulkan Tutorial (Rust)](https://kylemayes.github.io/vulkanalia/introduction.html)
 
 Rust:
-- [Rust Prog Language book](https://doc.rust-lang.org/book/title-page.html)
+- [Rust Programming Language book](https://doc.rust-lang.org/book/title-page.html)
