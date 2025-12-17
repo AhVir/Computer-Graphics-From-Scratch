@@ -9,3 +9,7 @@ Some good resources:
 
 Rust:
 - [Rust Programming Language book](https://doc.rust-lang.org/book/title-page.html)
+
+
+Ray Tracing:
+- [Graphics Codex](https://graphicscodex.com/app/app.html?page=_rn_preface)
